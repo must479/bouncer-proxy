@@ -8,7 +8,7 @@
     "cors": "^2.8.4",
     "dapparatus": "^1.0.17",
     "ethereum-ens": "^0.7.4",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "helmet": "^3.13.0",
     "ioredis": "^3.2.2",
     "qrcode.react": "^0.8.0",
